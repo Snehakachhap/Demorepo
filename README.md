@@ -1,2 +1,4 @@
 # Demorepo
-This is just a Demo Respository
+This is just a Demo Respository.
+Author-Sneha Kachhap.
+
